@@ -1,6 +1,6 @@
 #include <cpr/cpr.h>
 #include <iostream>
-#include <nlohmann/json.hpp>
+#include "nlohmann/json.hpp"
 
 using namespace std;
 using json = nlohmann::json;
@@ -17,7 +17,9 @@ int main() {
 
   json Doc{json::parse(r.text)};
 
-  cout << Doc.dump(4) << endl;
-  
+  for (auto& element : Doc["live"]) {
+    cout << element["homeCompetitor"]["name"] << " vs " << element["awayCompetitor"]["name"] << " : " << element["statusText"] << endl;
+    cout << "Score: " << element["homeCompetitor"]["score"] << " - " << element["awayCompetitor"]["score"] << endl;
+  }
   return 0;
 }
