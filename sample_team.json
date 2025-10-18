@@ -1,0 +1,146 @@
+{
+    "team": {
+      "abbreviation": "WSH",
+      "alternateColor": "ffb612",
+      "color": "5a1414",
+      "displayName": "Washington Commanders",
+      "id": "28",
+      "isActive": true,
+      "isAllStar": false,
+      "links": [
+        {
+          "href": "https://www.espn.com/nfl/team/_/name/wsh/washington-commanders",
+          "isExternal": false,
+          "isHidden": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "clubhouse",
+            "desktop",
+            "team"
+          ],
+          "shortText": "Clubhouse",
+          "text": "Clubhouse"
+        },
+        {
+          "href": "https://www.espn.com/nfl/team/roster/_/name/wsh/washington-commanders",
+          "isExternal": false,
+          "isHidden": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "roster",
+            "desktop",
+            "team"
+          ],
+          "shortText": "Roster",
+          "text": "Roster"
+        },
+        {
+          "href": "https://www.espn.com/nfl/team/stats/_/name/wsh/washington-commanders",
+          "isExternal": false,
+          "isHidden": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "stats",
+            "desktop",
+            "team"
+          ],
+          "shortText": "Statistics",
+          "text": "Statistics"
+        },
+        {
+          "href": "https://www.espn.com/nfl/team/schedule/_/name/wsh",
+          "isExternal": false,
+          "isHidden": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "schedule",
+            "desktop",
+            "team"
+          ],
+          "shortText": "Schedule",
+          "text": "Schedule"
+        },
+        {
+          "href": "https://www.vividseats.com/washington-commanders-tickets--sports-nfl-football/performer/925?wsUser=717",
+          "isExternal": true,
+          "isHidden": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "tickets",
+            "desktop",
+            "team"
+          ],
+          "shortText": "Tickets",
+          "text": "Tickets"
+        },
+        {
+          "href": "https://www.espn.com/nfl/team/depth/_/name/wsh",
+          "isExternal": false,
+          "isHidden": false,
+          "isPremium": false,
+          "language": "en-US",
+          "rel": [
+            "depthchart",
+            "desktop",
+            "team"
+          ],
+          "shortText": "Depth Chart",
+          "text": "Depth Chart"
+        }
+      ],
+      "location": "Washington",
+      "logos": [
+        {
+          "alt": "",
+          "height": 500,
+          "href": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png",
+          "rel": [
+            "full",
+            "default"
+          ],
+          "width": 500
+        },
+        {
+          "alt": "",
+          "height": 500,
+          "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/wsh.png",
+          "rel": [
+            "full",
+            "dark"
+          ],
+          "width": 500
+        },
+        {
+          "alt": "",
+          "height": 500,
+          "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+          "rel": [
+            "full",
+            "scoreboard"
+          ],
+          "width": 500
+        },
+        {
+          "alt": "",
+          "height": 500,
+          "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/wsh.png",
+          "rel": [
+            "full",
+            "scoreboard",
+            "dark"
+          ],
+          "width": 500
+        }
+      ],
+      "name": "Commanders",
+      "nickname": "Commanders",
+      "shortDisplayName": "Commanders",
+      "slug": "washington-commanders",
+      "uid": "s:20~l:28~t:28"
+    }
+  }
